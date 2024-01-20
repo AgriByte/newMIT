@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_food_bank_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_food_bank_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_signupshape.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\signupshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_nature_people_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_nature_people_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_mobile_friendly_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_mobile_friendly_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_contact_phone_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_contact_phone_24.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_fragment_product.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/fragment_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_roundded_button.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\roundded_button.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/drawable_baseline_production_quantity_limits_24.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/drawable/baseline_production_quantity_limits_24.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_fragment_about.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_additem.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/additem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_recipt_svg.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\recipt_svg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_map_24.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_activity_sign_up.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_activity_place.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/activity_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_fragment_home2.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_activity_bottombar.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/activity_bottombar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_emoji_people_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_emoji_people_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_add_location_alt_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_add_location_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_supervised_user_circle_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_supervised_user_circle_24.xml"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/layout_fragment_profile.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sandeep\\.gradle\\daemon\\8.0\\com.agribyte.hackathon.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.agribyte.hackathon.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.agribyte.hackathon.app-main-40:/menu/bottom_nav_menu.xml"
+    }
+]
